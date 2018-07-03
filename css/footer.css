@@ -1,0 +1,12 @@
+footer{
+	background-color: #EBEBEB;
+}
+
+footer .footer-sup{
+	padding: 50px 0;
+}
+
+footer .footer-inf{
+	border-top: 1px solid black;
+	padding: 20px 0px;
+}
