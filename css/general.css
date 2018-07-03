@@ -1,3 +1,6 @@
+*{
+	box-sizing: border-box;
+}
 @font-face {
     font-family: 'omnesmedium';
     src: url('../fonts/omnes_medium-webfont.woff2') format('woff2'),
@@ -65,6 +68,13 @@ h6{
 	width: 980px;
 	margin: 0 auto;
 }
+.row:after{
+	content: "";
+	clear: both;
+	height: 0px;
+	display: block;
+}
+
 
 
 .hero{

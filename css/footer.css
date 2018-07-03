@@ -10,3 +10,44 @@ footer .footer-inf{
 	border-top: 1px solid black;
 	padding: 20px 0px;
 }
+
+footer .columna{
+	float: left;
+	padding: 0 10px 0 0
+}
+
+footer .columna-small{
+	width: 25%;
+}
+
+footer .columna-big{
+	width: 50%;
+}
+
+footer .footer-sup .columna h3{
+	margin-bottom: 20px;
+}
+footer .footer-sup .columna .stores{
+	margin-bottom: 10px;
+}
+
+footer .footer-sup .columna #social li{
+	display: inline-block;
+	font-size: 25px;
+	margin-right: 10px;
+}
+
+footer a{
+	color: #646464;
+}
+
+footer a:hover{
+	color:#FE0000;
+}
+footer .columna-big div{
+	margin-bottom: 15px;
+}
+
+footer .footer-sup .suport li{
+	line-height: 26px;
+}
